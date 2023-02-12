@@ -25,12 +25,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false&fire=DD2727)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IhorMasechko&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IhorMasechko&theme=dark&hide_border=false&fire=DD2727)
   
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IhorMasechko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![image](https://www.codewars.com/users/Ihor.Masechko/badges/large)
 
