@@ -1,5 +1,6 @@
 <div id="header" align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Pawe%C5%82!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ihor!)](https://git.io/typing-svg)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -17,5 +18,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/> 
   
 </div>
+
+### Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawełpałasiński/) 
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false&fire=DD2727)
+  
+</div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![image](https://www.codewars.com/users/pawelpalasinski/badges/large)
 
 </div>
