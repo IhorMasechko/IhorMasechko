@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ihor!)](https://git.io/typing-svg)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
