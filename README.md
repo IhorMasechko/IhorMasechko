@@ -26,6 +26,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IhorMasechko&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IhorMasechko&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
   
 </div>
 
